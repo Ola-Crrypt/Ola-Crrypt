@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ola-Crrypt
-- - 🧑‍🎓I'm a Data Scientist (MSC)
+- 🧑‍🎓I'm a Data Scientist (MSC)
 - 👀 I’m interested in Coding (Python)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with Blockchain Developers
