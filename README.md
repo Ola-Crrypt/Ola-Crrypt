@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ola-Crrypt
+- 👋 Hi, I’m @Big_Ola01 on X
 - 🧑‍🎓I'm a Data Scientist (MSC) currently schooling at University of Greenwich
 - 👀 I’m interested in Coding (Python)
 - 🌱 I’m currently learning Python
