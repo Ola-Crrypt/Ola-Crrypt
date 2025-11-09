@@ -3,7 +3,7 @@
 - 👀 I’m interested in Coding (Python & SQL)
 - 🌱 I’m currently building prototype, just ti have POW
 - 💞️ I’m looking to collaborate with Blockchain Developers
-- 📫 How to reach me alagaolamilekan@gmail.com / @Ola_crrypt  (Twitter/Telegram) or @big_ola01 on x
+- 📫 How to reach me alagaolamilekan14@gmail.com / @Ola_crrypt  (Twitter/Telegram) or @big_ola01 on x
 
 <!---
 Ola-Crrypt/Ola-Crrypt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
